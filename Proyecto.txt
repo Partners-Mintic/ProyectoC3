@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 Miembros del equipo:
--Luis Felipe Yañez Meneses, cargo: Gestor de Bases de datos
-=======
+19-09-2021 Luis Felipe Yañez Meneses, cargo: Gestor de Bases de datos
 19-09-2021 Katherine Plata, Mod
 18-09-2021 Diana Solis modificacion
 18-09-2021 Jhonattan Rodríguez Scrum Master, modificación
 19-09-2021 Jeison Betancourt modificacion
->>>>>>> 107e4e34921f29ef6fec908fbabd23b1df6b1e42
+
+
